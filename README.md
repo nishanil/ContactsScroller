@@ -3,6 +3,8 @@ ContactsScroller
 
 Ported to Xamarin.iOS (using bindings) from here : [Scroller](https://github.com/raweng/Scroller)
 
+See the output here: (Video)[http://www.screencast.com/t/UDK6OVzhoxm]
+
 It has 3 Projects: 
 	
 	#1 Scroller - Original Project
