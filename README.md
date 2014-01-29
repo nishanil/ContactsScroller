@@ -5,13 +5,11 @@ Ported to Xamarin.iOS (using bindings) from here : [Scroller](https://github.com
 
 See the output here: [Video](http://www.screencast.com/t/UDK6OVzhoxm)
 
-It has 3 Projects: 
+It has 2 Projects: 
 	
-	#1 Scroller - Original Project
-	#2 ScrollerStatic - Static Library (contains fat lib MakeFile as well)
-	#3 ScrollerBinding - Binding Project and the iOS app
+	#1 ScrollerStatic - Static Library (contains fat lib MakeFile as well)
+	#2 ScrollerBinding - Binding Project and the iOS app
 	
-
 Steps followed here are inspired by the Xamarin Docs on [iOS Binding Walkthrough](http://docs.xamarin.com/guides/ios/advanced_topics/binding_objective-c/binding_walkthrough/). 
 
 Please note: Objective Sharpie was not used here. It was simple enough that I just needed one class ScrollViewController which I hand coded.
