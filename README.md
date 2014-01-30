@@ -7,8 +7,8 @@ See the output here: [Video](http://www.screencast.com/t/UDK6OVzhoxm)
 
 It has 2 Projects: 
 	
-	#1 ScrollerStatic - Static Library (contains fat lib MakeFile as well)
-	#2 ScrollerBinding - Binding Project and the iOS app
+	1. ScrollerStatic - Static Library (contains fat lib MakeFile as well)
+	2. ScrollerBinding - Binding Project and the iOS app
 	
 Steps followed here are inspired by the Xamarin Docs on [iOS Binding Walkthrough](http://docs.xamarin.com/guides/ios/advanced_topics/binding_objective-c/binding_walkthrough/). 
 
